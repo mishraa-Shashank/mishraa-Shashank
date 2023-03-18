@@ -1,4 +1,4 @@
-![logo](https://github.com/mishraa-Shashank/mishraa-Shashank/blob/master/git-logo.gif)
+/*![logo](https://github.com/mishraa-Shashank/mishraa-Shashank/blob/master/git-logo.gif)*/
 <h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
